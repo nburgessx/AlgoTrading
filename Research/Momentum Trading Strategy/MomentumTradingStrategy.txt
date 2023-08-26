@@ -4,6 +4,9 @@ Momentum Based Strategies for Low and High Frequency Trading
 Trading Strategy Blog
 https://blog.quantinsti.com/momentum-based-strategies-for-low-and-high-frequency-trading-excel-model/
 
+Trading Strategy Webinar
+https://youtu.be/Pjtuw3y6W2A
+
 On 3rd December 2015, QuantInsti held a comprehensive webinar session on Momentum Trading Strategies, where Mr. Nitesh Khandelwal, Co-founder, iRage Capital, discussed regarding momentum trading in Low and High frequency trading.
 
 This webinar focused on the various aspects of Momentum Trading Strategies for both Conventional/Low Frequency as well as High Frequency (HFT). Some popular strategies in momentum based trading were also dug deeper into to select niche momentum trading strategies. The webinar aimed to evaluate how HFT momentum strategies differ from conventional momentum strategies both from logic and deployment perspective.
