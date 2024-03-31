@@ -1,0 +1,97 @@
+2023-10-21 18:02:17.328469-04:00: Try to connect to Interactive Brokers: host=localhost port=7496 clientId=9
+2023-10-21 18:02:22.423925-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7496 clientId=9
+2023-10-21 18:02:27.513928-04:00: Try to connect to Interactive Brokers: host=localhost port=7497 clientId=9
+2023-10-21 18:02:32.597252-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7497 clientId=9
+2023-10-21 18:02:37.659450-04:00: Try to connect to Interactive Brokers: host=localhost port=4001 clientId=9
+2023-10-21 18:02:42.734124-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=4001 clientId=9
+2023-10-21 18:02:47.814670-04:00: Try to connect to Interactive Brokers: host=localhost port=4002 clientId=9
+2023-10-21 18:02:47.868387-04:00: Connected to Interactive Brokers
+2023-10-21 18:02:47.929909-04:00: IBridgePy version 19.1.3
+2023-10-21 18:02:47.932910-04:00: fileName = example_show_positions.py
+2023-10-21 18:02:47.947907-04:00: broker_client_factory.CallBacks::error:errorId=-1 errorCode=321 errorMessage=Error validating request.-'ch' : cause - The API interface is currently in Read-Only mode.
+2023-10-21 18:02:47.950907-04:00: broker_client_factory.CallBacks::_print_version:IBridgePy version= 19.1.3
+2023-10-21 18:04:53.643639-04:00: Try to connect to Interactive Brokers: host=localhost port=7496 clientId=9
+2023-10-21 18:04:58.727818-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7496 clientId=9
+2023-10-21 18:05:03.805452-04:00: Try to connect to Interactive Brokers: host=localhost port=7497 clientId=9
+2023-10-21 18:05:08.877591-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7497 clientId=9
+2023-10-21 18:05:13.927295-04:00: Try to connect to Interactive Brokers: host=localhost port=4001 clientId=9
+2023-10-21 18:05:19.021105-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=4001 clientId=9
+2023-10-21 18:05:24.109076-04:00: Try to connect to Interactive Brokers: host=localhost port=4002 clientId=9
+2023-10-21 18:05:24.154526-04:00: Connected to Interactive Brokers
+2023-10-21 18:05:24.185743-04:00: IBridgePy version 19.1.3
+2023-10-21 18:05:24.188743-04:00: fileName = example_show_positions.py
+2023-10-21 18:05:24.205744-04:00: broker_client_factory.CallBacks::error:errorId=-1 errorCode=321 errorMessage=Error validating request.-'ch' : cause - The API interface is currently in Read-Only mode.
+2023-10-21 18:05:24.209750-04:00: broker_client_factory.CallBacks::_print_version:IBridgePy version= 19.1.3
+2023-10-21 18:07:24.479427-04:00: Try to connect to Interactive Brokers: host=localhost port=7496 clientId=9
+2023-10-21 18:07:29.532189-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7496 clientId=9
+2023-10-21 18:07:34.576132-04:00: Try to connect to Interactive Brokers: host=localhost port=7497 clientId=9
+2023-10-21 18:07:39.644266-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7497 clientId=9
+2023-10-21 18:07:44.689360-04:00: Try to connect to Interactive Brokers: host=localhost port=4001 clientId=9
+2023-10-21 18:07:49.772130-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=4001 clientId=9
+2023-10-21 18:07:54.842590-04:00: Try to connect to Interactive Brokers: host=localhost port=4002 clientId=9
+2023-10-21 18:07:54.889637-04:00: Connected to Interactive Brokers
+2023-10-21 18:07:54.903210-04:00: IBridgePy version 19.1.3
+2023-10-21 18:07:54.905215-04:00: fileName = example_get_historical_data.py
+2023-10-21 18:07:54.919084-04:00: broker_client_factory.CallBacks::error:errorId=-1 errorCode=321 errorMessage=Error validating request.-'ch' : cause - The API interface is currently in Read-Only mode.
+2023-10-21 18:07:54.922085-04:00: broker_client_factory.CallBacks::_print_version:IBridgePy version= 19.1.3
+2023-10-21 18:08:21.307338-04:00: Try to connect to Interactive Brokers: host=localhost port=7496 clientId=9
+2023-10-21 18:08:26.364845-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7496 clientId=9
+2023-10-21 18:08:31.446070-04:00: Try to connect to Interactive Brokers: host=localhost port=7497 clientId=9
+2023-10-21 18:08:36.524630-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7497 clientId=9
+2023-10-21 18:08:41.595764-04:00: Try to connect to Interactive Brokers: host=localhost port=4001 clientId=9
+2023-10-21 18:08:46.674263-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=4001 clientId=9
+2023-10-21 18:08:51.728221-04:00: Try to connect to Interactive Brokers: host=localhost port=4002 clientId=9
+2023-10-21 18:08:51.735146-04:00: Connected to Interactive Brokers
+2023-10-21 18:08:51.750285-04:00: IBridgePy version 19.1.3
+2023-10-21 18:08:51.751284-04:00: fileName = example_get_historical_data.py
+2023-10-21 18:08:51.754286-04:00: broker_client_factory.CallBacks::error:errorId=-1 errorCode=321 errorMessage=Error validating request.-'ch' : cause - The API interface is currently in Read-Only mode.
+2023-10-21 18:08:51.758460-04:00: broker_client_factory.CallBacks::_print_version:IBridgePy version= 19.1.3
+2023-10-21 18:09:35.058855-04:00: Try to connect to Interactive Brokers: host=localhost port=7496 clientId=9
+2023-10-21 18:09:40.110008-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7496 clientId=9
+2023-10-21 18:09:45.177239-04:00: Try to connect to Interactive Brokers: host=localhost port=7497 clientId=9
+2023-10-21 18:09:50.264038-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7497 clientId=9
+2023-10-21 18:09:55.320971-04:00: Try to connect to Interactive Brokers: host=localhost port=4001 clientId=9
+2023-10-21 18:10:00.401217-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=4001 clientId=9
+2023-10-21 18:10:05.451554-04:00: Try to connect to Interactive Brokers: host=localhost port=4002 clientId=9
+2023-10-21 18:10:05.457331-04:00: Connected to Interactive Brokers
+2023-10-21 18:10:05.472117-04:00: IBridgePy version 19.1.3
+2023-10-21 18:10:05.474614-04:00: fileName = example_show_positions.py
+2023-10-21 18:10:05.684235-04:00: ####    Starting to initialize trader    ####
+2023-10-21 18:10:05.688174-04:00: IBridgePy.Trader::_validate_input_accountCode: EXIT, accountCode=DU003 is not acceptable
+2023-10-21 18:10:05.690675-04:00: IBridgePy.Trader::_validate_input_accountCode: possible accountCodes are {'DU7864794'}
+2023-10-21 18:10:28.526566-04:00: Try to connect to Interactive Brokers: host=localhost port=7496 clientId=9
+2023-10-21 18:10:33.593168-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7496 clientId=9
+2023-10-21 18:10:38.686053-04:00: Try to connect to Interactive Brokers: host=localhost port=7497 clientId=9
+2023-10-21 18:10:43.782640-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7497 clientId=9
+2023-10-21 18:10:48.867189-04:00: Try to connect to Interactive Brokers: host=localhost port=4001 clientId=9
+2023-10-21 18:10:53.934366-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=4001 clientId=9
+2023-10-21 18:10:59.019526-04:00: Try to connect to Interactive Brokers: host=localhost port=4002 clientId=9
+2023-10-21 18:10:59.240432-04:00: Connected to Interactive Brokers
+2023-10-21 18:10:59.456471-04:00: IBridgePy version 19.1.3
+2023-10-21 18:10:59.459459-04:00: fileName = example_show_positions.py
+2023-10-21 18:11:29.666308-04:00: broker_client_factory.BrokerClient::request_data: EXIT, the following requestRecord failed
+2023-10-21 18:11:29.671816-04:00: {reqId=0,status=Submitted,reqType=reqIds,followUp=True,waitForFeedbackInSeconds=30,param={}}
+2023-10-21 18:12:59.717851-04:00: Try to connect to Interactive Brokers: host=localhost port=7496 clientId=9
+2023-10-21 18:13:04.800241-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7496 clientId=9
+2023-10-21 18:13:09.884230-04:00: Try to connect to Interactive Brokers: host=localhost port=7497 clientId=9
+2023-10-21 18:13:14.970409-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7497 clientId=9
+2023-10-21 18:13:20.069150-04:00: Try to connect to Interactive Brokers: host=localhost port=4001 clientId=9
+2023-10-21 18:13:25.111092-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=4001 clientId=9
+2023-10-21 18:13:30.197392-04:00: Try to connect to Interactive Brokers: host=localhost port=4002 clientId=9
+2023-10-21 18:13:30.408010-04:00: Connected to Interactive Brokers
+2023-10-21 18:13:30.641985-04:00: IBridgePy version 19.1.3
+2023-10-21 18:13:30.643932-04:00: fileName = example_get_historical_data.py
+2023-10-21 18:14:00.671120-04:00: broker_client_factory.BrokerClient::request_data: EXIT, the following requestRecord failed
+2023-10-21 18:14:00.674489-04:00: {reqId=0,status=Submitted,reqType=reqIds,followUp=True,waitForFeedbackInSeconds=30,param={}}
+2023-10-21 18:20:44.186553-04:00: Try to connect to Interactive Brokers: host=localhost port=7496 clientId=9
+2023-10-21 18:20:49.267548-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7496 clientId=9
+2023-10-21 18:20:54.351460-04:00: Try to connect to Interactive Brokers: host=localhost port=7497 clientId=9
+2023-10-21 18:20:59.422984-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=7497 clientId=9
+2023-10-21 18:21:04.499851-04:00: Try to connect to Interactive Brokers: host=localhost port=4001 clientId=9
+2023-10-21 18:21:09.607130-04:00: Try to connect to Interactive Brokers: host=127.0.0.1 port=4001 clientId=9
+2023-10-21 18:21:14.654799-04:00: Try to connect to Interactive Brokers: host=localhost port=4002 clientId=9
+2023-10-21 18:21:14.861847-04:00: Connected to Interactive Brokers
+2023-10-21 18:21:15.081872-04:00: IBridgePy version 19.1.3
+2023-10-21 18:21:15.083873-04:00: fileName = example_security_screener.py
+2023-10-21 18:21:45.252709-04:00: broker_client_factory.BrokerClient::request_data: EXIT, the following requestRecord failed
+2023-10-21 18:21:45.258144-04:00: {reqId=0,status=Submitted,reqType=reqIds,followUp=True,waitForFeedbackInSeconds=30,param={}}
