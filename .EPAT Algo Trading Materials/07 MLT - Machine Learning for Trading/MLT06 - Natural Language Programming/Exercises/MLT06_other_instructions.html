@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Instructions to the participants before the session</title>
+<meta name="generator" content="Org Mode" />
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<style>  p {text-align: justify;}  li {text-align: justify;} </style>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Instructions to the participants before the session</h1>
+
+<div id="outline-container-org41f69e5" class="outline-2">
+<h2 id="org41f69e5">Registration and Download</h2>
+<div class="outline-text-2" id="text-org41f69e5">
+<ul class="org-ul">
+<li>Download sample data from <a href="http://bit.ly/3Pr9HG5">http://bit.ly/3Pr9HG5</a></li>
+<li>Ensure that you have <code>NLP-Sentiment-Analysis-in-Trading.pdf</code>  before the session begins</li>
+<li>All notebooks are present <code>notebooks.zip</code> folder</li>
+<li>All notebooks in HTML format are present <code>notebooks-in-html.zip</code> folder</li>
+<li>Register at <a href="https://developers.refinitiv.com/">https://developers.refinitiv.com/</a></li>
+<li>Register at <a href="https://permid.org/">https://permid.org/</a> and have the API key ready before the session.
+We will be using the API key for the PermID demo and Intelligent Tagging Demo</li>
+<li>The session would aim to cover most of the content mentioned in the slide deck.
+If time permits, a few additional aspects related to Sentiment analysis would
+also be discussed.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org6c746a7" class="outline-2">
+<h2 id="org6c746a7">Python environment</h2>
+<div class="outline-text-2" id="text-org6c746a7">
+<p>
+One can install the relevant python environment via any of the following options:
+</p>
+</div>
+<div id="outline-container-org842af68" class="outline-3">
+<h3 id="org842af68">Option 1: using <code>yml</code> file</h3>
+<div class="outline-text-3" id="text-org842af68">
+<p>
+Install the relevant packages mentioned in the <code>environment.yml</code> file
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeb1bf71" class="outline-3">
+<h3 id="orgeb1bf71">Option 2:</h3>
+<div class="outline-text-3" id="text-orgeb1bf71">
+</div>
+<div id="outline-container-orge71034e" class="outline-4">
+<h4 id="orge71034e">Create a virtual environment <code>qi-nlp</code></h4>
+<div class="outline-text-4" id="text-orge71034e">
+<pre class="example">
+conda create --name qi-nlp python=3
+conda install -c anaconda requests --name qi-nlp -y
+conda install -c anaconda pandas --name qi-nlp -y
+conda install ipykernel --name qi-nlp -y
+conda install -c conda-forge rdflib --name qi-nlp -y
+conda install -c anaconda scikit-learn --name qi-nlp -y
+conda install -c conda-forge statsmodels --name qi-nlp -y
+conda install -c conda-forge matplotlib --name qi-nlp -y
+conda install -c plotly plotly=5.11.0 --name qi-nlp -y
+conda install -c conda-forge nbformat --name qi-nlp -y
+</pre>
+</div>
+</div>
+
+<div id="outline-container-org62f6fa6" class="outline-4">
+<h4 id="org62f6fa6">Install <code>spacy</code> and the relevant language model</h4>
+<div class="outline-text-4" id="text-org62f6fa6">
+<pre class="example">
+conda activate qi-nlp
+conda install -c conda-forge spacy -y
+python -m spacy download en_core_web_lg
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
